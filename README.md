@@ -7,10 +7,11 @@ Performed in silico docking studies of antiviral compounds Asunaprevir and Simep
 ## Tools Used
 - **Discovery Studio** – Visualization of protein-ligand interactions
 - **AutoDock Vina** – Molecular docking
-- **Python** – Programming-based binding affinity calculation
 - **Open Babel** – Used for file format conversion
 - **Cygwin** – Used to run AutoDock and obtain docking result files (.dlg).
 - **PyMOL** – Used for validation of the homology model by superimposing structures and calculating RMSD values to assess structural accuracy.
+  
+  Python scripts were used for calculating binding affinities.
 
 ## Workflow
 1. **Homology Modeling of NS3 Protein**  
