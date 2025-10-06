@@ -2,7 +2,7 @@
 In Silico Analysis of Antiviral Compounds Against Dengue Virus NS3 Protein
 
 ## Objective
-Perform molecular docking of antiviral compounds (Asunaprevir and Simeprevir) against the dengue virus NS3 protein, starting from homology modeling and analyzing interactions using Discovery Studio.
+Performed in silico docking studies of antiviral compounds Asunaprevir and Simeprevir against dengue virus NS3 protein, including homology modeling, binding affinity analysis, and interaction visualization.
 
 ## Tools Used
 - **Discovery Studio** – Visualization of protein-ligand interactions
