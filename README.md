@@ -52,7 +52,7 @@ Perform molecular docking of antiviral compounds (Asunaprevir and Simeprevir) ag
 - DOPE profile: ![DOPE_profile](DOPE_profile.png)  
 - RMSD validation report included in `RMSD_report.txt`.
 ---
-
+```
 ## Folder Structure
 Dengue_NS3_Docking_Project/
 │
@@ -88,5 +88,5 @@ Dengue_NS3_Docking_Project/
 │   └── docked_ligand_2.pdbqt
 │
 └── README.md              # Project overview
-
+```
 
