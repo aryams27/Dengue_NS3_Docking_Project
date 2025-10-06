@@ -60,7 +60,7 @@ Dengue_NS3_Docking_Project/
 │   ├── Asunaprevir.sdf
 │   ├── Simeprevir.sdf
 │   ├── NS3_model.pdb
-│   └── NS3_sequence.txt
+│   └── NS3_sequence.fasta
 │
 ├── Docking_ligand1/       # Docking results for ligand 1
 │   ├── ligand1.pdbqt
