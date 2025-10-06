@@ -47,10 +47,17 @@ Perform molecular docking of antiviral compounds (Asunaprevir and Simeprevir) ag
 **Note:** Binding affinities from docking are generally more accurate than initial programming estimates, which explains the variation in values.
 
 **Modelling Figures:**  
-- NS3 protein model: ![NS3_model](NS3_model.png)
-- Superimposed NS3 model: ![NS3_superimposed](NS3_superimposed.png)  
-- DOPE profile: ![DOPE_profile](DOPE_profile.png)  
-- RMSD validation report included in `RMSD_report.txt`.
+- **NS3 protein model:**  
+  ![NS3_model](NS3_model.png)
+
+- **Superimposed NS3 model:**  
+  ![NS3_superimposed](NS3_superimposed.png)
+
+- **DOPE profile:**  
+  ![DOPE_profile](DOPE_profile.png)
+
+- **RMSD validation report:**  
+  Included in `RMSD_report.txt`.
 ---
 ```
 ## Folder Structure
