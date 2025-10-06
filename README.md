@@ -41,16 +41,16 @@ Perform molecular docking of antiviral compounds (Asunaprevir and Simeprevir) ag
 
 | Ligand           | Binding Affinity (Programming) | Binding Affinity (Docking) | Visualization |
 |-----------------|-------------------------------|----------------------------|---------------|
-| Asunaprevir      | -7.291 kcal/mol                | -11.65 kcal/mol           | ![Ligand1](Docking_ligand1/run2_interaction.png) |
-| Simeprevir       | -10.803 kcal/mol               | -11.46 kcal/mol           | ![Ligand2](Docking_ligand2/run4_interaction.png) |
+| Asunaprevir      | -7.291 kcal/mol                | -11.65 kcal/mol           | ![Ligand1](run2_interaction.png) |
+| Simeprevir       | -10.803 kcal/mol               | -11.46 kcal/mol           | ![Ligand2](run4_interaction.png) |
 
 **Note:** Binding affinities from docking are generally more accurate than initial programming estimates, which explains the variation in values.
 
 **Modelling Figures:**  
-- NS3 protein model: ![NS3_model](Modelling/NS3_model.png)
-- Superimposed NS3 model: ![NS3_superimposed](Modelling/NS3_superimposed.png)  
-- DOPE profile: ![DOPE_profile](Modelling/DOPE_profile.png)  
-- RMSD validation report included in `Modelling/RMSD_report.txt`.
+- NS3 protein model: ![NS3_model](NS3_model.png)
+- Superimposed NS3 model: ![NS3_superimposed](NS3_superimposed.png)  
+- DOPE profile: ![DOPE_profile](DOPE_profile.png)  
+- RMSD validation report included in `RMSD_report.txt`.
 ---
 
 ## Folder Structure
